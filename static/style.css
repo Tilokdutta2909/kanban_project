@@ -1,0 +1,61 @@
+.ls {
+    display:flex;
+    /* flex-direction: row-reverse; */
+    margin-left: 60rem;
+}
+.navbar{
+    background-color:blanchedalmond !important;
+}
+.card{
+    text-align: center;
+    margin:auto;
+    margin-top:10rem;
+    background-color: cornflowerblue;
+    border:2px solid black;
+}
+/* .row{
+    height: 500px !important;;
+    width: 500px !important;;
+} */
+ .input{
+    background-color:cornflowerblue;
+    height:400px;
+    width:400px;
+    margin:auto;
+    margin-top:7rem;
+    border:2px solid black;
+    border-radius: 15px;
+    text-align: center;
+ }
+.signinInput{
+    background-color:cornflowerblue;
+    height:530px;
+    width:400px;
+    margin:auto;
+    margin-top:3rem;
+    border:2px solid black;
+    border-radius: 15px;
+    text-align: center;
+}
+.card-link{
+    text-decoration: none;
+    color:white;
+}
+.icon{
+    text-decoration: none;
+    color: white;
+}
+.plus{
+    color:limegreen;
+    font-size: 50px;
+}
+.adding{
+    margin-top:3rem
+}
+.adding p{
+    font-weight: bold;
+    font-size: larger;
+}
+.table{
+    border:1px solid black;
+}
